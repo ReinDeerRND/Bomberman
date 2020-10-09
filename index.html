@@ -1,0 +1,41 @@
+<html>
+<head>
+	<link rel="stylesheet" type="text/css" href="style.css">
+</head>
+<body>
+	<div class="layer">
+		<h2>BomberMan</h2>
+		<div>
+			<label>Количество строк</label>
+			<input type="text" name="" id="n">
+			<label>Количество столбцов</label>
+			<input type="text" name="" id="m">
+		</div>
+
+		<div>
+			<button id="createGame">Создать игру</button>
+			<button id="stop">Остановить игру</button>
+		</div>
+
+		<div>
+			<pre id="playBoard"></pre>
+		</div>
+
+		<div>
+			<h3>Описание</h3>
+			<p>
+				<ul>
+					<li>P - персонаж игрока</li>
+					<li>М - монстры, встреча с которыми несет гибель персонажа</li>
+					<li>&equiv; - ящик, не дает пройти, но его можно уничтожить взрывом бомбы</li>
+					<li>В - бомба, закладывается клавишей "В", взрывается через 3 секунды, оставляя много огня</li>
+					<li>F - огонь, уничтожает ящики, монстров и персонаж игрока</li>
+				</ul>
+			</p>
+		</div>
+	
+	</div>
+	
+	<script src="game.js"></script>
+</body>
+</html>

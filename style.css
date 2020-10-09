@@ -1,0 +1,22 @@
+pre{
+    font-size: 30px;;
+    line-height:19px;
+    margin:10px;
+}
+label,div,h2,h3 {
+    padding:7px;
+    margin: 5px;
+}
+button{
+    padding: 7px;
+    margin: 10px;
+}
+input{
+    padding: 3px;
+}
+.layer{
+     display: flex;
+    flex-direction: column;
+    align-items: center;
+
+}
