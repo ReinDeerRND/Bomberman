@@ -1,2 +1,2 @@
 # Bomberman
-Для демонстрации игры переходите по ссылке - <a href="http://d90174ay.beget.tech/bomberman/" target="_blank">Game Bomberman </a>
+Для демонстрации игры переходите по ссылке - <a href="https://swiderskaya.ru//bomberman/" target="_blank">Game Bomberman </a>
